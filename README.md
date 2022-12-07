@@ -1,6 +1,6 @@
 # Konversi Suhu List
-Nama : Jud Amal Mukhtar__
-NIM : 2041720168__
+Nama : Jud Amal Mukhtar  
+NIM : 2041720168  
 Kelas : TI-3C
 
 ## Halaman Awal
